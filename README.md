@@ -1,7 +1,7 @@
 # Basic-RFID-Communication
-"import RPi.GPIO as gpio
-from mfrc522 import SimpleMFRC522"
-We need to install those modules 
+"import RPi.GPIO as gpio <br>
+from mfrc522 import SimpleMFRC522" <br>
+We need to install those modules <br>
 * Rpi.GPIO
 * mfrc522
 
